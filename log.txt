@@ -1,0 +1,52 @@
+Artist: Michael Jackson
+Song: Billie Jean
+Album the song is from: Thriller 25 Super Deluxe Edition
+Preview Url: https://p.scdn.co/mp3-preview/4eb779428d40d579f14d12a9daf98fc66c7d0be4?cid=03f156ff337447929b1b2c789864417a
+Artist: Michael Jackson
+Song: Beat It - Single Version
+Album the song is from: Thriller 25 Super Deluxe Edition
+Preview Url: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=03f156ff337447929b1b2c789864417a
+Artist: Waka Flocka Flame
+Song: THRILLER BEAT
+Album the song is from: Waka Flocka Myers 6
+Preview Url: https://p.scdn.co/mp3-preview/31048bd64d52bf585e6953047c3759628ccdc747?cid=03f156ff337447929b1b2c789864417a
+Artist: Michael Jackson
+Song: P.Y.T. (Pretty Young Thing)
+Album the song is from: Thriller 25 Super Deluxe Edition
+Preview Url: https://p.scdn.co/mp3-preview/575230ca230ab7a79f1b2980e303d7f1612073f3?cid=03f156ff337447929b1b2c789864417a
+Artist: Michael Jackson
+Song: Thriller
+Album the song is from: Thriller 25 Super Deluxe Edition
+Preview Url: https://p.scdn.co/mp3-preview/dd0621b7f11364a37c96031dbedbca6b88dbfa7d?cid=03f156ff337447929b1b2c789864417a
+* Title: Frozen
+* Year: 2013
+* IMDB Rating: 7.5
+* Rotten Tomatoes Rating: N/A
+* Country: USA
+* Language: English, Norwegian
+* Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+* Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+* Title: Minions
+* Year: 2015
+* IMDB Rating: 6.4
+* Rotten Tomatoes Rating: N/A
+* Country: USA
+* Language: English, Spanish
+* Plot: Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.
+* Actors: Sandra Bullock, Jon Hamm, Michael Keaton, Allison Janney
+@efgh8441: This is test tweet
+Mon Apr 02 03:54:48 +0000 2018
+------------------------------ 0 ------------------------------
+@efgh8441: Hellooooooooooo
+Mon Apr 02 03:53:43 +0000 2018
+------------------------------ 1 ------------------------------
+@efgh8441: This is test tweet
+Mon Apr 02 03:54:48 +0000 2018
+------------------------------ 0 ------------------------------
+@efgh8441: Hellooooooooooo
+Mon Apr 02 03:53:43 +0000 2018
+------------------------------ 1 ------------------------------
+@efgh8441: This is test tweet
+Mon Apr 02 03:54:48 +0000 2018
+@efgh8441: Hellooooooooooo
+Mon Apr 02 03:53:43 +0000 2018
