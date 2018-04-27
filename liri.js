@@ -127,7 +127,7 @@ function doWhatItSays() {
         }
     });
 };
-// Do What It Says function, uses the reads and writes module to access the log.txt file and write everything that returns in terminal in the log.txt file
+// Do What It Says function, uses the reads and writes module to access the log.txt file and write everything that returns in command line in the log.txt file
 function log(logResults) {
     fs.appendFile("log.txt", logResults, function (error) {
         if (error) {
